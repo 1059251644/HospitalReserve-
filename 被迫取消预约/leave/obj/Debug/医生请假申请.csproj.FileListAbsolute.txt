@@ -1,0 +1,10 @@
+C:\Users\10592\source\repos\被迫取消预约\leave\bin\Debug\leave.exe.config
+C:\Users\10592\source\repos\被迫取消预约\leave\bin\Debug\leave.exe
+C:\Users\10592\source\repos\被迫取消预约\leave\bin\Debug\leave.pdb
+C:\Users\10592\source\repos\被迫取消预约\leave\obj\Debug\医生请假申请.csprojAssemblyReference.cache
+C:\Users\10592\source\repos\被迫取消预约\leave\obj\Debug\leave.leave.resources
+C:\Users\10592\source\repos\被迫取消预约\leave\obj\Debug\leave.Properties.Resources.resources
+C:\Users\10592\source\repos\被迫取消预约\leave\obj\Debug\医生请假申请.csproj.GenerateResource.cache
+C:\Users\10592\source\repos\被迫取消预约\leave\obj\Debug\医生请假申请.csproj.CoreCompileInputs.cache
+C:\Users\10592\source\repos\被迫取消预约\leave\obj\Debug\leave.exe
+C:\Users\10592\source\repos\被迫取消预约\leave\obj\Debug\leave.pdb

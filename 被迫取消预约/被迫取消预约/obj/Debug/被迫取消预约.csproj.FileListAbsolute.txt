@@ -1,0 +1,11 @@
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\bin\Debug\被迫取消预约.exe.config
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\bin\Debug\被迫取消预约.exe
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\bin\Debug\被迫取消预约.pdb
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\obj\Debug\被迫取消预约.Properties.Resources.resources
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\obj\Debug\被迫取消预约.csproj.GenerateResource.cache
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\obj\Debug\被迫取消预约.csproj.CoreCompileInputs.cache
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\obj\Debug\被迫取消预约.exe
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\obj\Debug\被迫取消预约.pdb
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\obj\Debug\被迫取消预约.csprojAssemblyReference.cache
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\obj\Debug\被迫取消预约.ShortLeave.resources
+C:\Users\10592\source\repos\被迫取消预约\被迫取消预约\obj\Debug\被迫取消预约.ShortLeave_from.resources
